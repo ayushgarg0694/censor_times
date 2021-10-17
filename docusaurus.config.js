@@ -21,12 +21,15 @@ const config = {
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
-        },
+        docs: false,
+        // {
+        //   sidebarPath: require.resolve('./sidebars.js'),
+        //   // Please change this to your repo.
+        //   editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+        // },
         blog: {
+          path: './blog',
+          routeBasePath: '/',
           blogTitle: 'Censor Times News ',
           blogSidebarTitle: 'All Issues',
           blogSidebarCount: 'ALL',
@@ -52,20 +55,10 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
+        // items: [
+         
+        //   {to: '/blog', label: 'Published Issues', position: 'left'}
+        // ],
       },
       footer: {
         style: 'dark',
