@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcensor_times=self.webpackChunkcensor_times||[]).push([[991],{3885:function(e){e.exports=JSON.parse('{"permalink":"/","page":1,"postsPerPage":1,"totalPages":2,"totalCount":2,"previousPage":null,"nextPage":"/page/2","blogDescription":"Blog","blogTitle":"Censor Times News "}')}}]);
