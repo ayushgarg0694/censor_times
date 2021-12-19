@@ -30,10 +30,109 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dec 2020]]></title>
+        <id>Dec 2020</id>
+        <link href="https://your-docusaurus-test-site.com/Dec 2020"/>
+        <updated>2020-12-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Download]]></summary>
+        <content type="html"><![CDATA[<object data="/published/12-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/12-01-2020.pdf">Download</a></p>]]></content>
+        <author>
+            <name>Ravi Potdar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nov 2020]]></title>
+        <id>Nov 2020</id>
+        <link href="https://your-docusaurus-test-site.com/Nov 2020"/>
+        <updated>2020-11-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Download]]></summary>
+        <content type="html"><![CDATA[<object data="/published/11-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/11-01-2020.pdf">Download</a></p>]]></content>
+        <author>
+            <name>Ravi Potdar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oct 2020]]></title>
+        <id>Oct 2020</id>
+        <link href="https://your-docusaurus-test-site.com/Oct 2020"/>
+        <updated>2020-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Download]]></summary>
+        <content type="html"><![CDATA[<object data="/published/10-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/10-01-2020.pdf">Download</a></p>]]></content>
+        <author>
+            <name>Ravi Potdar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sep 2020]]></title>
+        <id>Sep 2020</id>
+        <link href="https://your-docusaurus-test-site.com/Sep 2020"/>
+        <updated>2020-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Download]]></summary>
+        <content type="html"><![CDATA[<object data="/published/09-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/09-01-2020.pdf">Download</a></p>]]></content>
+        <author>
+            <name>Ravi Potdar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[August 2020]]></title>
+        <id>August 2020</id>
+        <link href="https://your-docusaurus-test-site.com/August 2020"/>
+        <updated>2020-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Download]]></summary>
+        <content type="html"><![CDATA[<object data="/published/08-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/08-01-2020.pdf">Download</a></p>]]></content>
+        <author>
+            <name>Ravi Potdar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[July 2020]]></title>
+        <id>July 2020</id>
+        <link href="https://your-docusaurus-test-site.com/July 2020"/>
+        <updated>2020-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Download]]></summary>
+        <content type="html"><![CDATA[<object data="/published/07-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/07-01-2020.pdf">Download</a></p>]]></content>
+        <author>
+            <name>Ravi Potdar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[June 2020]]></title>
+        <id>June 2020</id>
+        <link href="https://your-docusaurus-test-site.com/June 2020"/>
+        <updated>2020-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Download]]></summary>
+        <content type="html"><![CDATA[<object data="/published/06-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/06-01-2020.pdf">Download</a></p>]]></content>
+        <author>
+            <name>Ravi Potdar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[May 2020]]></title>
+        <id>May 2020</id>
+        <link href="https://your-docusaurus-test-site.com/May 2020"/>
+        <updated>2020-05-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Download]]></summary>
+        <content type="html"><![CDATA[<object data="/published/05-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/05-01-2020.pdf">Download</a></p>]]></content>
+        <author>
+            <name>Ravi Potdar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April 2020]]></title>
+        <id>April 2020</id>
+        <link href="https://your-docusaurus-test-site.com/April 2020"/>
+        <updated>2020-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Download]]></summary>
+        <content type="html"><![CDATA[<object data="/published/04-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/04-01-2020.pdf">Download</a></p>]]></content>
+        <author>
+            <name>Ravi Potdar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[March 2020]]></title>
         <id>March 2020</id>
         <link href="https://your-docusaurus-test-site.com/March 2020"/>
-        <updated>2020-03-15T00:00:00.000Z</updated>
+        <updated>2020-03-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Download]]></summary>
         <content type="html"><![CDATA[<object data="/published/03-15-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/03-15-2020.pdf">Download</a></p>]]></content>
         <author>
@@ -44,9 +143,9 @@
         <title type="html"><![CDATA[Feb 2020]]></title>
         <id>Feb 2020</id>
         <link href="https://your-docusaurus-test-site.com/Feb 2020"/>
-        <updated>2020-02-15T00:00:00.000Z</updated>
+        <updated>2020-02-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Download]]></summary>
-        <content type="html"><![CDATA[<object data="/published/02-15-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/02-15-2020.pdf">Download</a></p>]]></content>
+        <content type="html"><![CDATA[<object data="/published/02-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/02-01-2020.pdf">Download</a></p>]]></content>
         <author>
             <name>Ravi Potdar</name>
         </author>

@@ -24,10 +24,82 @@
             <content:encoded><![CDATA[<object data="/published/01-01-2021.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/01-01-2021.pdf">Download</a></p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Dec 2020]]></title>
+            <link>https://your-docusaurus-test-site.com/Dec 2020</link>
+            <guid>Dec 2020</guid>
+            <pubDate>Tue, 01 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download]]></description>
+            <content:encoded><![CDATA[<object data="/published/12-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/12-01-2020.pdf">Download</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Nov 2020]]></title>
+            <link>https://your-docusaurus-test-site.com/Nov 2020</link>
+            <guid>Nov 2020</guid>
+            <pubDate>Sun, 01 Nov 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download]]></description>
+            <content:encoded><![CDATA[<object data="/published/11-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/11-01-2020.pdf">Download</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Oct 2020]]></title>
+            <link>https://your-docusaurus-test-site.com/Oct 2020</link>
+            <guid>Oct 2020</guid>
+            <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download]]></description>
+            <content:encoded><![CDATA[<object data="/published/10-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/10-01-2020.pdf">Download</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sep 2020]]></title>
+            <link>https://your-docusaurus-test-site.com/Sep 2020</link>
+            <guid>Sep 2020</guid>
+            <pubDate>Tue, 01 Sep 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download]]></description>
+            <content:encoded><![CDATA[<object data="/published/09-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/09-01-2020.pdf">Download</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[August 2020]]></title>
+            <link>https://your-docusaurus-test-site.com/August 2020</link>
+            <guid>August 2020</guid>
+            <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download]]></description>
+            <content:encoded><![CDATA[<object data="/published/08-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/08-01-2020.pdf">Download</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[July 2020]]></title>
+            <link>https://your-docusaurus-test-site.com/July 2020</link>
+            <guid>July 2020</guid>
+            <pubDate>Wed, 01 Jul 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download]]></description>
+            <content:encoded><![CDATA[<object data="/published/07-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/07-01-2020.pdf">Download</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[June 2020]]></title>
+            <link>https://your-docusaurus-test-site.com/June 2020</link>
+            <guid>June 2020</guid>
+            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download]]></description>
+            <content:encoded><![CDATA[<object data="/published/06-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/06-01-2020.pdf">Download</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[May 2020]]></title>
+            <link>https://your-docusaurus-test-site.com/May 2020</link>
+            <guid>May 2020</guid>
+            <pubDate>Fri, 01 May 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download]]></description>
+            <content:encoded><![CDATA[<object data="/published/05-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/05-01-2020.pdf">Download</a></p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[April 2020]]></title>
+            <link>https://your-docusaurus-test-site.com/April 2020</link>
+            <guid>April 2020</guid>
+            <pubDate>Wed, 01 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Download]]></description>
+            <content:encoded><![CDATA[<object data="/published/04-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/04-01-2020.pdf">Download</a></p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[March 2020]]></title>
             <link>https://your-docusaurus-test-site.com/March 2020</link>
             <guid>March 2020</guid>
-            <pubDate>Sun, 15 Mar 2020 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 01 Mar 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Download]]></description>
             <content:encoded><![CDATA[<object data="/published/03-15-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/03-15-2020.pdf">Download</a></p>]]></content:encoded>
         </item>
@@ -35,9 +107,9 @@
             <title><![CDATA[Feb 2020]]></title>
             <link>https://your-docusaurus-test-site.com/Feb 2020</link>
             <guid>Feb 2020</guid>
-            <pubDate>Sat, 15 Feb 2020 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Download]]></description>
-            <content:encoded><![CDATA[<object data="/published/02-15-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/02-15-2020.pdf">Download</a></p>]]></content:encoded>
+            <content:encoded><![CDATA[<object data="/published/02-01-2020.pdf" type="application/pdf" title="SamplePdf" width="200%" height="900"></object><p><a href="/published/02-01-2020.pdf">Download</a></p>]]></content:encoded>
         </item>
     </channel>
 </rss>
